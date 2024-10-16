@@ -39,3 +39,8 @@ Once you have completed it please email us and submit your review of the code.
    ```bash
     npm run web
    ```
+
+3. Test the app on the web with Cypress
+
+   ```bash
+    npx cypress open
